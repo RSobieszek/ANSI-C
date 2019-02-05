@@ -1,4 +1,4 @@
-# Javascript-exercises
+# C exercises
 Some exercises I've made to familiarize myself with JavaScript
 
 <h3>CodeWars</h3>
