@@ -1,5 +1,5 @@
 # C exercises
-Some exercises I've made to familiarize myself with JavaScript
+Some exercises I've made to familiarize myself with C language and programming principles.
 
 <h3>CodeWars</h3>
 Check out my CodeWars profile at https://www.codewars.com/users/Zdez
