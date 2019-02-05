@@ -1,5 +1,5 @@
 # C exercises
-Some exercises I've made to familiarize myself with C language and programming principles.
+Some exercises I've made to familiarize myself with C language and programming principles. Exercises are from the book "The C Programming Language" written by Brian W. Kernighan and Dennis M. Ritchie.
 
 <h3>CodeWars</h3>
 Check out my CodeWars profile at https://www.codewars.com/users/Zdez
